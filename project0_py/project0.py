@@ -1,5 +1,8 @@
 #
 # File: __init__.py
+# Betty Wan
+# boyuwan@stanford.edu
+# Apr 3rd, 2022
 #
 
 from project0_py.helpers import *
@@ -26,4 +29,4 @@ def f(a, b):
 
 	##
 
-	return c
+	return (a+b)
